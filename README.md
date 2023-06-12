@@ -7,21 +7,21 @@
 
 - 🌱 I’m currently learning **Computer Science ,Tensorflow and Pytorch 📚**
 
-- 👯 I’m looking to collaborate on **Anything**
+- 👯 I’m looking to collaborate on **Anything🤔**
 
-- 🤝 I’m looking for help with **Networks and Security**
+- 🤝 I’m looking for help with **Networks and Security😐**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sam2420](https://github.com/sam2420)
 
-- 💬 Ask me about **Data Structures**
+- 💬 Ask me about **Data Structures📖**
 
-- 📫 How to reach me **samimaniyar184@gmail.com**
+- 📫 How to reach me **samimaniyar184@gmail.com📧**
 
-- ⚡ Fun fact **I like Fiction**
+- ⚡ Fun fact **I like Fiction⚡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hashim maniyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashim maniyar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hashim-maniyar-1073a0227r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashim maniyar" height="30" width="40" /></a>
 <a href="https://instagram.com/_.samm_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.samm_24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codingsam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codingsam" height="30" width="40" /></a>
 </p>
